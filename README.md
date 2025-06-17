@@ -6,5 +6,5 @@ AdventureWorks Graph Data Model
 
 Related blog post **Importing AdventureWorks data into Neo4j**
 
-[http://stephanefrechette.com/importing-adventureworks-data-into-neo4j/](https://stephanefrechette.dev/posts/importing-adventureworks-data-into-neo4j/)
+[https://stephanefrechette.dev/posts/importing-adventureworks-data-into-neo4j/](https://stephanefrechette.dev/posts/importing-adventureworks-data-into-neo4j/)
 
